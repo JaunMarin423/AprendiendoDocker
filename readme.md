@@ -13,6 +13,7 @@ En este repo podremos encontrar mi proceso mediante ente estudio docker y alguno
 
 ## Comandos
 
+![Scheme](img/imagencoman.jpg)
 
 ```docker
 $ docker run hello-world (corro el contenedor hello-world)
