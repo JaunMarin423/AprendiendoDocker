@@ -63,4 +63,8 @@ db.users.insert({“nombre”:“guido”}) (inserto un nuevo dato)
 db.users.find() (veo el dato que cargué)
 $ docker run -d --name db -v <path de mi maquina>:<path dentro del contenedor(/data/db mongo)> (corro un contenedor de mongo y creo un bind mount)
 
+Cuando cambie algo este disponible.
+
+
+
 ```
