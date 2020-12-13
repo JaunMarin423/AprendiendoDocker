@@ -22,7 +22,7 @@ En este repo podremos encontrar mi proceso mediante ente estudio docker y alguno
 ![Scheme](img/comandos6.jpg)
 ![Scheme](img/comandos7.jpg)
 ![Scheme](img/comandos8.jpg)
-
+![Scheme](img/comandos9.png)
 ```docker
 $ docker run hello-world (corro el contenedor hello-world)
 $ docker ps (muestra los contenedores activos)
